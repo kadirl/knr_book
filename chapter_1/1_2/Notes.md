@@ -6,3 +6,5 @@
 - %6f - float at least 6 chars wide
 - %.f - 2 chars after decimal point
 - %6.2 - I hope it is obviouse
+- %ld - long integer
+- 
